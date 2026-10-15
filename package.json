@@ -1,0 +1,15 @@
+{
+  "name": "flowcore-feature-flags",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Libera recurso novo pra X% dos usuários com rollout determinístico, listas de permitidos e bloqueados, filtro por ambiente e kill switch. Lançamento sem medo e rollback em um segundo.",
+  "author": "FlowCore Soluções LTDA",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
